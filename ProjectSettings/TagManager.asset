@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Fire
+  - Camera
+  - Demon Pillar
+  - PlayerFireBullet
+  - EnemyBullet00
+  - Enemy00
+  - RightOfScreen
+  - LeftOfScreen
+  - Spawner00
+  - snowwall
+  - Rocks
+  - SnowStalagmites
+  - EnemyBullet01
+  - Enemy01
+  - FrostMtn
+  - FirePlant
+  - RockBank
+  - GreenBush
+  - WhiteCloud
+  - BigGrayStone
+  - Explosion0
+  - SewerSpeck
+  - ShadowPillar
+  - Building_Group
+  - RoadBlockCity
+  - EnemyCannonBall00
+  - SeaLevelCannonTower
+  - EnemyCannon
+  - EnemyBullet01Heart
+  - CherubEnemy
+  - BlackHoleEnemy
+  - Gold
+  - LaserEnemyBullet
+  - TurtleEnemy
+  - EnemySpider
+  - EnemySpiderWeb
+  - EnemyWebBulletRight
+  - EnemyWebBulletLeft
+  - BatEnemy
+  - EnemySonicRing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Killnet
+  - Enemy
+  - PlayerMovementLimiter
+  - EnemyBullet
+  - PlayerBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
